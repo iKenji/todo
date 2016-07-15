@@ -23,9 +23,13 @@
     "babel-preset-react": "^6.11.1",
     "browserify": "^13.0.1",
     "react": "^15.2.1",
-    "react-dom": "^15.2.1"
+    "react-dom": "^15.2.1",
+    "superagent": "~2.1.0"
   },
   "babel": {
-    "presets": ["es2015", "react"]
+    "presets": [
+      "es2015",
+      "react"
+    ]
   }
 }
