@@ -80,7 +80,7 @@ var Task = function (_React$Component) {
           _react2.default.createElement(
             "button",
             { className: "btn btn-danger", onClick: this.handleDestroy.bind(this) },
-            "destroy"
+            "削除"
           )
         )
       );
