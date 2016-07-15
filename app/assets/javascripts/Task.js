@@ -29,7 +29,7 @@ export default class Task extends React.Component {
           </select>
         </td>
         <td>
-          <button className="btn btn-danger" onClick={this.handleDestroy.bind(this)}>destroy</button>
+          <button className="btn btn-danger" onClick={this.handleDestroy.bind(this)}>削除</button>
         </td>
       </tr>
     );
