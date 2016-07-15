@@ -221,12 +221,12 @@ var TaskApp = function (_React$Component) {
               _react2.default.createElement(
                 "th",
                 null,
-                "Content"
+                "項目"
               ),
               _react2.default.createElement(
                 "th",
                 null,
-                "Status"
+                "状態"
               ),
               _react2.default.createElement("th", { colSpan: "3" })
             )

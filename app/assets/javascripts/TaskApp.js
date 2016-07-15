@@ -82,8 +82,8 @@ export default class TaskApp extends React.Component {
         <table className="table table-striped">
           <thead>
             <tr>
-              <th>Content</th>
-              <th>Status</th>
+              <th>項目</th>
+              <th>状態</th>
               <th colSpan="3"></th>
             </tr>
           </thead>
